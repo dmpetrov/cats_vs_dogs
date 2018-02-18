@@ -10,7 +10,7 @@ LogLevel = Info
 CredentialPath = ~/.aws/credentials
 CredentialSection = default
 
-StoragePath = dvc/tutorial
+StoragePath = dvc-share/cats_vs_dogs
 
 # Default settings for AWS instances:
 Type = t2.nano
