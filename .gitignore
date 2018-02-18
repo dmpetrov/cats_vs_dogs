@@ -6,3 +6,5 @@ __pycache__/*
 
 model.h5
 history.p
+plot_acc.jpeg
+plot_loss.jpeg
