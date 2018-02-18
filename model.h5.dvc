@@ -1,0 +1,15 @@
+cmd: python model.py
+deps:
+- md5: b8cf2f9147fd135a4a3e41d0e458ae51
+  path: model.py
+- md5: 74220ae036913a170f7220ebeebcbcdc
+  path: conf.py
+- md5: da49cf17236a5f2b4cf7046518b272d8
+  path: cats_and_dogs_small
+outs:
+- cache: true
+  md5: 730786e5c78eb2782124e998c802ae9c
+  path: model.h5
+- cache: true
+  md5: 0f69da47a6a31007964f838477825473
+  path: history.p

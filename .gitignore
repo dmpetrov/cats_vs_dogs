@@ -3,3 +3,6 @@ train.zip
 train
 cats_and_dogs_small
 __pycache__/*
+
+model.h5
+history.p
